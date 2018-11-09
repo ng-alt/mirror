@@ -41,7 +41,11 @@
   <project name="gdbm"/>
   <project name="geoip-api-c"/>
   <project name="gettext"/>
+  <project name="gnulib"/>
   <project name="gperf"/>
+  <project name="gSOAP"/>
+  <project name="hd-idle"/>
+  <project name="hdparm"/>
   <project name="hndtools-arm-linux-2.6.36-uclibc-4.5.3"/>
   <project name="hostap-06"/>
   <project name="hotplug2"/>
@@ -56,6 +60,7 @@
   <project name="json-c"/>
   <project name="l2tpd"/>
   <project name="l7-protocols"/>
+  <project name="libantlr3c"/>
   <project name="libav"/>
   <project name="libconfuse"/>
   <project name="libdaemon"/>
@@ -68,7 +73,10 @@
   <project name="libiconv"/>
   <project name="libid3tag"/>
   <project name="libjpeg"/>
+  <project name="libkqueue"/>
   <project name="libmnl"/>
+  <project name="libnetfilter_conntrack"/>
+  <project name="libnetfilter_queue"/>
   <project name="libnfnetlink"/>
   <project name="libpcap"/>
   <project name="libpng"/>
@@ -93,8 +101,10 @@
   <project name="ministun"/>
   <project name="miniupnp"/>
   <project name="mirror"/>
+  <project name="mtools"/>
   <project name="mxml"/>
   <project name="nano"/>
+  <project name="ncftp"/>
   <project name="ncurses"/>
   <project name="neon"/>
   <project name="net-snmp"/>
@@ -102,6 +112,7 @@
   <project name="netstat-nat"/>
   <project name="nettle"/>
   <project name="nfs-utils"/>
+  <project name="ntfs-3g"/>
   <project name="ntpclient"/>
   <project name="odhcp6c"/>
   <project name="ogg"/>
@@ -151,6 +162,7 @@
   <project name="vendor_netgear_router_project"/>
   <project name="vlan"/>
   <project name="vsftpd"/>
+  <project name="wakelan"/>
   <project name="wget"/>
   <project name="wxWidgets"/>
   <project name="xz"/>
