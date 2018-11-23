@@ -87,7 +87,7 @@
   <project name="libvorbis"/>
   <project name="libxml2"/>
   <project name="lighttpd"/>
-  <project name="linux" groups="notdefault"/>
+  <project name="linux"/>
   <project name="lprng"/>
   <project name="lsyncd"/>
   <project name="lua"/>
