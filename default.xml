@@ -12,6 +12,7 @@
   <project name="avl"/>
   <project name="berkeleydb"/>
   <project name="bftpd"/>
+  <project name="binwalk"/>
   <project name="bpalogin"/>
   <project name="bridge-utils"/>
   <project name="buildroot"/>
