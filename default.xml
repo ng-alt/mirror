@@ -64,6 +64,7 @@
   <project name="libantlr3c"/>
   <project name="libav"/>
   <project name="libconfuse"/>
+  <project name="libcsc"/>
   <project name="libdaemon"/>
   <project name="libev"/>
   <project name="libevent"/>
