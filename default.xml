@@ -114,7 +114,7 @@
   <project name="netstat-nat"/>
   <project name="nettle"/>
   <project name="nfs-utils"/>
-  <project name="ntfs-3g"/>
+  <project name="ntfs-3g" revision="edge"/>
   <project name="ntpclient"/>
   <project name="odhcp6c"/>
   <project name="ogg"/>
@@ -151,7 +151,7 @@
   <project name="umem"/>
   <project name="unzip"/>
   <project name="Uqmi"/>
-  <project name="usb-modeswitch"/>
+  <project name="usb-modeswitch" revision="debian/master"/>
   <project name="usrsctp"/>
   <project name="vendor_broadcom_buildroot_br-external"/>
   <project name="vendor_broadcom_router"/>
