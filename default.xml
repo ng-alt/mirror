@@ -10,6 +10,7 @@
   <project name="antlr3"/>
   <project name="avahi"/>
   <project name="avl"/>
+  <project name="aws-iot-device-sdk-embedded-C"/>
   <project name="berkeleydb"/>
   <project name="bftpd"/>
   <project name="binwalk"/>
@@ -20,6 +21,7 @@
   <project name="busybox"/>
   <project name="bzip2"/>
   <project name="comgt"/>
+  <project name="conntrack-tools"/>
   <project name="cpython"/>
   <project name="cramfs-tools"/>
   <project name="cryptopp"/>
@@ -78,6 +80,8 @@
   <project name="libkqueue"/>
   <project name="libmnl"/>
   <project name="libnetfilter_conntrack"/>
+  <project name="libnetfilter_cthelper"/>
+  <project name="libnetfilter_cttimeout"/>
   <project name="libnetfilter_queue"/>
   <project name="libnfnetlink"/>
   <project name="libpcap"/>
@@ -111,6 +115,7 @@
   <project name="neon"/>
   <project name="net-snmp"/>
   <project name="Netatalk"/>
+  <project name="netkit-ftp"/>
   <project name="netstat-nat"/>
   <project name="nettle"/>
   <project name="nfs-utils"/>
@@ -123,13 +128,15 @@
   <project name="openvpn"/>
   <project name="pcre"/>
   <project name="phddns"/>
+  <project name="picocom"/>
+  <project name="pjproject"/>
   <project name="portaudio"/>
   <project name="portfolio"/>
   <project name="portmap"/>
   <project name="ppp"/>
   <project name="pppoe"/>
   <project name="pptpclient"/>
-  <project name="pjproject"/>
+  <project name="pptpd"/>
   <project name="qcsapi"/>
   <project name="quagga"/>
   <project name="radvd"/>
@@ -152,6 +159,7 @@
   <project name="unzip"/>
   <project name="Uqmi"/>
   <project name="usb-modeswitch" revision="debian/master"/>
+  <project name="usbmodem_micromax"/>
   <project name="usrsctp"/>
   <project name="vendor_broadcom_buildroot_br-external"/>
   <project name="vendor_broadcom_router"/>
