@@ -176,6 +176,7 @@
   <project name="wget"/>
   <project name="wxWidgets"/>
   <project name="xz"/>
+  <project name="yaffs2"/>
   <project name="zeroconf"/>
   <project name="zip"/>
   <project name="zlib"/>
