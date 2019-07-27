@@ -55,11 +55,13 @@
   <project name="hub-ctrl"/>
   <project name="igmpproxy"/>
   <project name="igmpv3proxy"/>
+  <project name="inadyn"/>
   <project name="iperf"/>
   <project name="iproute2"/>
   <project name="ipset"/>
   <project name="iptables"/>
   <project name="iputils"/>
+  <project name="jansson"/>
   <project name="json-c"/>
   <project name="l2tpd"/>
   <project name="l7-protocols"/>
