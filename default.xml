@@ -20,8 +20,11 @@
   <project name="buildroot_support_extra"/>
   <project name="busybox"/>
   <project name="bzip2"/>
+  <project name="c-ares"/>
+  <project name="cJSON"/>
   <project name="comgt"/>
   <project name="conntrack-tools"/>
+  <project name="coreutils"/>
   <project name="cpython"/>
   <project name="cramfs-tools"/>
   <project name="cryptopp"/>
@@ -30,6 +33,7 @@
   <project name="dhcpv6"/>
   <project name="dlib"/>
   <project name="dnsmasq"/>
+  <project name="dosfstools"/>
   <project name="dproxy"/>
   <project name="dropbear"/>
   <project name="e2fsprogs"/>
@@ -41,8 +45,10 @@
   <project name="flac"/>
   <project name="flex"/>
   <project name="forked-daapd"/>
+  <project name="freeradius-server"/>
   <project name="gdbm"/>
   <project name="geoip-api-c"/>
+  <project name="getdns"/>
   <project name="gettext"/>
   <project name="gnulib"/>
   <project name="gperf"/>
@@ -61,6 +67,8 @@
   <project name="ipset"/>
   <project name="iptables"/>
   <project name="iputils"/>
+  <project name="iw"/>
+  <project name="iwinfo"/>
   <project name="jansson"/>
   <project name="json-c"/>
   <project name="l2tpd"/>
@@ -74,8 +82,10 @@
   <project name="libevent"/>
   <project name="libexif"/>
   <project name="libexpat"/>
+  <project name="libffi"/>
   <project name="libgcrypt"/>
   <project name="libgpg-error"/>
+  <project name="libical"/>
   <project name="libiconv"/>
   <project name="libid3tag"/>
   <project name="libjpeg"/>
@@ -148,6 +158,7 @@
   <project name="sdparm"/>
   <project name="sqlite"/>
   <project name="squashfs-tools"/>
+  <project name="sysstat"/>
   <project name="tcpdump"/>
   <project name="toolchains_manifest"/>
   <project name="tor"/>
