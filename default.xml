@@ -5,6 +5,7 @@
 
   <project name="6relayd"/>
   <project name="accel-pptp"/>
+  <project name="acme-client-portable"/>
   <project name="alsa-lib"/>
   <project name="amule"/>
   <project name="antlr3"/>
@@ -14,6 +15,7 @@
   <project name="berkeleydb"/>
   <project name="bftpd"/>
   <project name="binwalk"/>
+  <project name="bonnie"/>
   <project name="bpalogin"/>
   <project name="bridge-utils"/>
   <project name="buildroot"/>
@@ -31,6 +33,7 @@
   <project name="curl"/>
   <project name="dbus"/>
   <project name="dhcpv6"/>
+  <project name="diskdev_cmds"/>
   <project name="dlib"/>
   <project name="dnsmasq"/>
   <project name="dosfstools"/>
@@ -39,6 +42,7 @@
   <project name="e2fsprogs"/>
   <project name="easy-rsa"/>
   <project name="ebtables"/>
+  <project name="ecmh"/>
   <project name="eMail"/>
   <project name="ez-ipupdate"/>
   <project name="FFmpeg"/>
@@ -59,6 +63,8 @@
   <project name="hostap-06"/>
   <project name="hotplug2"/>
   <project name="hub-ctrl"/>
+  <project name="i2c-tools"/>
+  <project name="ifenslave"/>
   <project name="igmpproxy"/>
   <project name="igmpv3proxy"/>
   <project name="inadyn"/>
@@ -98,14 +104,17 @@
   <project name="libnfnetlink"/>
   <project name="libpcap"/>
   <project name="libpng"/>
+  <project name="libsodium"/>
   <project name="libubox"/>
   <project name="libunistring"/>
   <project name="libusb"/>
   <project name="libusb-compat"/>
+  <project name="libuuid"/>
   <project name="libvorbis"/>
   <project name="libxml2"/>
   <project name="lighttpd"/>
   <project name="linux"/>
+  <project name="lldpd"/>
   <project name="lprng"/>
   <project name="lsyncd"/>
   <project name="lua"/>
@@ -114,6 +123,7 @@
   <project name="lzo"/>
   <project name="madwimax"/>
   <project name="manifest"/>
+  <project name="mbedtls"/>
   <project name="mDNSResponder"/>
   <project name="minidlna"/>
   <project name="ministun"/>
@@ -178,6 +188,7 @@
   <project name="vendor_broadcom_router"/>
   <project name="vendor_broadcom_router_base"/>
   <project name="vendor_broadcom_router_tools"/>
+  <project name="vendor_intelli4u_aux_tools"/>
   <project name="vendor_intelli4u_buildroot_br-external"/>
   <project name="vendor_netgear_acos"/>
   <project name="vendor_netgear_router_l7filter"/>
